@@ -15,5 +15,5 @@ int main()
             count++;
         num=num/10;
     }
-    printf("Digit frequency of the given digit is %d.", count);
+    printf("Digit frequency of the given digit is %d", count);
 }
