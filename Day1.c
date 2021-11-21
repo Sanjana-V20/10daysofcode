@@ -11,7 +11,7 @@ int main()
     while(num!=0)
     {
         rem=num%10;
-		if(rem==digit)
+	if(rem==digit)
             count++;
         num=num/10;
     }
