@@ -10,7 +10,7 @@ int main()
 	for(i=0; i<length; i++)
 	{
 		if(str[i]!=str[length-i-1])
-		flagp=1;
+		flag=1;
 		break;
 	}
 	if(flag==0)
