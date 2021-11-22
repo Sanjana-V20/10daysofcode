@@ -8,7 +8,7 @@ int main()
 	scanf("%d", &n);
 	
 	int size = (2*n)-1; 
-    int end = size - 1;
+        int end = size - 1;
 	int arr[size][size];
 
 	while(n!=0)
